@@ -1,0 +1,13 @@
+{
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "dev": "node main.js",
+    "start": "node ./main.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
